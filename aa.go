@@ -1,3 +1,7 @@
-package Whale_Tracker
+package main
 
-var asgsd = 0
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
